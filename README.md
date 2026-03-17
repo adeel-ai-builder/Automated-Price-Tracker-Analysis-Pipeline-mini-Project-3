@@ -72,27 +72,23 @@ SQLite
 
 price-tracker-pipeline/
 
-│
 ├── data/
 
-│
 ├── database/
 
 │   └── price_tracker.db
 
-│
 ├── scripts/
 
-│   ├── scraper.py
+│   └── scraper.py
 
-│   ├── database.py
+│   └── database.py
 
 │   └── analyzer.py
 
-│
 ├── README.md
 
-└── requirements.txt
+├── requirements.txt
 
 ## Pipeline Architecture
 
